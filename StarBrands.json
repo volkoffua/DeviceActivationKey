@@ -12,7 +12,8 @@
     
 {       "device_id": "88933934dc0343bf",
         "key": "88933934dc0343bf",
-        "expirydate": "31-12-2027"    },
+        "expirydate": "31-12-2027" 
+        "Allowoffline": true    },
 
  {      "device_id": "535040813d7e3001",
         "key": "test",
