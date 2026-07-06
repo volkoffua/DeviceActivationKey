@@ -5,17 +5,15 @@
 
 
 
-
+{       "device_id": "64cc00e8776efd19",			
+        "key": "64cc00e8776efd19",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },			
 
 {       "device_id": "e8331dada7c9f451",			
         "key": "e8331dada7c9f451",			
         "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-        
-{       "device_id": "64сс00е8776еfd19",			
-        "key": "sv64k",			
-        "expirydate": "28-06-2027",			
-        "Allowoffline": true    },			
+        "Allowoffline": true    },					
 
 {       "device_id": "5c7d1781d558b9e4",
         "key": "5c7d1781d558b9e4",
