@@ -1,5 +1,9 @@
 [
     
+{       "device_id": "608a22d7cda7b2f7",			
+        "key": "608a22d7cda7b2f7",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },			
 
  {      "device_id": "535040813d7e3001",
         "key": "test",
