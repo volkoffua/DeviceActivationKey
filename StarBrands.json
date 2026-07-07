@@ -14,13 +14,13 @@
 {       "device_id": "e2f7df6880c0a6ce",			
         "key": "e2f7df6880c0a6ce",			
         "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "ce6598ceb368847a",			
-        "key": "ce6598ceb368847a",			
+        "Allowoffline": true    },	
+        
+{       "device_id": "3f768b9dc204a664",			
+        "key": "3f768b9dc204a664",			
         "expirydate": "31-12-2027",			
         "Allowoffline": true    },			
-
+		
 {       "device_id": "b1ca2bae7720fe0e",			
         "key": "b1ca2bae7720fe0e",			
         "expirydate": "31-12-2027",			
