@@ -1,9 +1,34 @@
 [
 
+{       "device_id": "97cebf62678028c2",
+        "key": "97cebf62678028c2",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true     },
 
+{       "device_id": "0e4cc352b8ce6274",			
+        "key": "0e4cc352b8ce6274",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },			
 
+{       "device_id": "384b74d371f14f6c",			
+        "key": "384b74d371f14f6c",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },
 
+{       "device_id": "8d4c58c699323c88",			
+        "key": "8d4c58c699323c88",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },			
 
+{       "device_id": "b30ed328167e675f",			
+        "key": "b30ed328167e675f",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },			
+
+{       "device_id": "c4dc94e452d900af",			
+        "key": "c4dc94e452d900af",			
+        "expirydate": "31-12-2027",			
+        "Allowoffline": true    },			
 
 {       "device_id": "9a3005ae87caf491",			
         "key": "9a3005ae87caf491",			
