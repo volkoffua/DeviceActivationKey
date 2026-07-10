@@ -370,6 +370,16 @@
 {    "device_id": "4b92b7aa63ec1fbe",
     "key": "4b92b7aa63ec1fbe",
     "expirydate": "31-12-2027",
+    "Allowoffline": true   },
+
+    {   "device_id": "7a8030a96765378e",
+    "key": "7a8030a96765378e",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "535040813d7e3001",
+    "key": "535040813d7e3001",
+    "expirydate": "31-12-2027",
     "Allowoffline": true   }
 ]
 
