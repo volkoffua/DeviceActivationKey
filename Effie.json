@@ -1,644 +1,731 @@
 [
-
-
-{   "device_id": "1e4004fad1ef142e",
-    "key": "1e4004fad1ef142e",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-    {   "device_id": "3d42c712285e22f3",
-    "key": "3d42c712285e22f3",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-    {   "device_id": "d340840e0f2a524e",
-    "key": "d340840e0f2a524e",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "540729d372324d48",
-    "key": "540729d372324d48",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "d340840e0f2a524e",
-    "key": "d340840e0f2a524e",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "82ee584b858e06a6",
-    "key": "82ee584b858e06a6",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "25a19e1cbc23b909",
-    "key": "25a19e1cbc23b909",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-    
-{   "device_id": "c7f011c0899a9954",
-    "key": "c7f011c0899a9954",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "f95b31f15a9c48be",
-    "key": "f95b31f15a9c48be",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "d9b0c2dedb0b129a",
-    "key": "d9b0c2dedb0b129a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "346df4475ae98a65",
-    "key": "346df4475ae98a65",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "e80e01d0da6d9778",
-    "key": "e80e01d0da6d9778",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "d41333748fdae7cd",
-    "key": "d41333748fdae7cd",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "05cfbfebe7a5988b",
-    "key": "05cfbfebe7a5988b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "ae65b44b6d074ea5",
-    "key": "ae65b44b6d074ea5",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "0a3d74ea1d39a4e9",
-    "key": "0a3d74ea1d39a4e9",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "f485bd3172bd20da",
-    "key": "f485bd3172bd20da",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "09aa1b21a250835b",
-    "key": "09aa1b21a250835b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "0fd85205b51c0125",
-    "key": "0fd85205b51c0125",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "454d49a7c669386f",
-    "key": "454d49a7c669386f",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "ee4625c4b249201f",
-    "key": "ee4625c4b249201f",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "3535a30cb4baaf84",
-    "key": "3535a30cb4baaf84",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "f485bd3172bd20da",
-    "key": "f485bd3172bd20da",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "9cc44e745b97ff03",
-    "key": "9cc44e745b97ff03",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "651de2db308d1123",
-    "key": "651de2db308d1123",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
 {   "device_id": "78dc484a4a6482eb",
     "key": "78dc484a4a6482eb",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "87f88e2abe1e7e97",
-    "key": "87f88e2abe1e7e97",
+    "Allowoffline": true   }, 
+
+{   "device_id": "dfd8a8d1981bd05a",
+    "key": "dfd8a8d1981bd05a",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "34b4ea3fb2929b82",
-    "key": "34b4ea3fb2929b82",
+    "Allowoffline": true   }, 
+
+{   "device_id": "473a8ce42a138eeb",
+    "key": "473a8ce42a138eeb",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "a96602a48bfb9de1",
-    "key": "a96602a48bfb9de1",
+    "Allowoffline": true   }, 
+
+{   "device_id": "94a6101c46a8839f",
+    "key": "94a6101c46a8839f",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "8598cef3a984b987",
-    "key": "8598cef3a984b987",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
+    "Allowoffline": true   }, 
+
 {   "device_id": "bcd6dba23f6cf834",
     "key": "bcd6dba23f6cf834",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "e52206e9e385a9c1",
-    "key": "e52206e9e385a9c1",
+    "Allowoffline": true   }, 
+
+{   "device_id": "1a17040568d23ab7",
+    "key": "1a17040568d23ab7",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
+    "Allowoffline": true   }, 
+
+{   "device_id": "8a7875004b3f783e",
+    "key": "8a7875004b3f783e",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "3d42c712285e22f3",
+    "key": "3d42c712285e22f3",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "06bbf8ae4878a241",
+    "key": "06bbf8ae4878a241",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
 {   "device_id": "b73292414def4042",
     "key": "b73292414def4042",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "b85121b177980bfa",
-    "key": "b85121b177980bfa",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "f97a29763dacebc5",
-    "key": "f97a29763dacebc5",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "dfd0a78eef7d5a18",
-    "key": "dfd0a78eef7d5a18",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "4afff9c3223d3c93",
-    "key": "4afff9c3223d3c93",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "b4aabedfb005f065",
-    "key": "b4aabedfb005f065",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "000bd2c7162ed037",
-    "key": "000bd2c7162ed037",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "7dd46c71bd03e8d2",
-    "key": "7dd46c71bd03e8d2",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "7def89141c2f28e1",
-    "key": "7def89141c2f28e1",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "5b7e42f6e3754a8a",
-    "key": "5b7e42f6e3754a8a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "a7383d6b89bd9e92",
-    "key": "a7383d6b89bd9e92",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "d44a865a90f1c239",
-    "key": "d44a865a90f1c239",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "68ef921f67334453",
-    "key": "68ef921f67334453",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "aaf92a857ce496b3",
-    "key": "aaf92a857ce496b3",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "dc0a21bc1d2c7c63",
-    "key": "dc0a21bc1d2c7c63",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "93f512337e4b7f04",
-    "key": "93f512337e4b7f04",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "0d405261f7949a8c",
-    "key": "0d405261f7949a8c",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "7557001ddea20501",
-    "key": "7557001ddea20501",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "740acc785e85d32d",
-    "key": "740acc785e85d32d",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "740acc785e85d32d",
-    "key": "740acc785e85d32d",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-
-{   "device_id": "29e30ee2b9fae263",
-    "key": "29e30ee2b9fae263",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-
-
-
-{   "device_id": "0718ca02097e4048",
-    "key": "0718ca02097e4048",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-
-{   "device_id": "69c6b495b8145c16",
-    "key": "69c6b495b8145c16",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-
-{   "device_id": "4604f3cf3b82c1d5",
-    "key": "4604f3cf3b82c1d5",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
+    "Allowoffline": true   }, 
 
 {   "device_id": "7037dc23b914ccfa",
     "key": "7037dc23b914ccfa",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
+    "Allowoffline": true   }, 
 
-{   "device_id": "e1908c6ae5dbd588",
-    "key": "e1908c6ae5dbd588",
+{   "device_id": "8598cef3a984b987",
+    "key": "8598cef3a984b987",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
+    "Allowoffline": true   }, 
+
+{   "device_id": "c7752a78823ef64c",
+    "key": "c7752a78823ef64c",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "c032456e85ca772d",
+    "key": "c032456e85ca772d",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "6292cb9a67baaaf0",
+    "key": "6292cb9a67baaaf0",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "9e29a26dcee67265",
+    "key": "9e29a26dcee67265",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "cb1a4c1bb475c420",
+    "key": "cb1a4c1bb475c420",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "9cc44e745b97ff03",
+    "key": "9cc44e745b97ff03",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "4afa060a4a87a3f0",
+    "key": "4afa060a4a87a3f0",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "454d49a7c669386f",
+    "key": "454d49a7c669386f",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "5c481b50206bf7ab",
+    "key": "5c481b50206bf7ab",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "951099fd651245b9",
+    "key": "951099fd651245b9",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "c26ebf84a3285ac8",
+    "key": "c26ebf84a3285ac8",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "651de2db308d1123",
+    "key": "651de2db308d1123",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "3535a30cb4baaf84",
+    "key": "3535a30cb4baaf84",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "527067874c5bcc81",
+    "key": "527067874c5bcc81",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "dfd7d762607a444b",
+    "key": "dfd7d762607a444b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "fb99c880a30f0ecf",
+    "key": "fb99c880a30f0ecf",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "34b4ea3fb2929b82",
+    "key": "34b4ea3fb2929b82",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "4604f3cf3b82c1d5",
+    "key": "4604f3cf3b82c1d5",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "34b4ea3fb2929b82",
+    "key": "34b4ea3fb2929b82",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "a96602a48bfb9de1",
+    "key": "a96602a48bfb9de1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "29e30ee2b9fae263",
+    "key": "29e30ee2b9fae263",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "d1dc09d08700da2d",
+    "key": "d1dc09d08700da2d",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
 
 {   "device_id": "2b2db67aef2fb827",
     "key": "2b2db67aef2fb827",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
+    "Allowoffline": true   }, 
+
+{   "device_id": "69c6b495b8145c16",
+    "key": "69c6b495b8145c16",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "87f88e2abe1e7e97",
+    "key": "87f88e2abe1e7e97",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "bd31d49562347f86",
+    "key": "bd31d49562347f86",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "999f0006c25134fc",
+    "key": "999f0006c25134fc",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "1faf316e9046fa82",
+    "key": "1faf316e9046fa82",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "09aa1b21a250835b",
+    "key": "09aa1b21a250835b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0719afd1ff3e5a4b",
+    "key": "0719afd1ff3e5a4b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "b4aabedfb005f065",
+    "key": "b4aabedfb005f065",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "4546ce252b532fb5",
+    "key": "4546ce252b532fb5",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "dc0a21bc1d2c7c63",
+    "key": "dc0a21bc1d2c7c63",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "7def89141c2f28e1",
+    "key": "7def89141c2f28e1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "b85121b177980bfa",
+    "key": "b85121b177980bfa",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "3cb675a32eb1df41",
+    "key": "3cb675a32eb1df41",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "6d327c6ef2aa37b0",
+    "key": "6d327c6ef2aa37b0",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "70cc2e039bcd2ae6",
+    "key": "70cc2e039bcd2ae6",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "7cc2761916f21801",
+    "key": "7cc2761916f21801",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "2713f44eac3de49c",
+    "key": "2713f44eac3de49c",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "086c51f1cad3abe9",
+    "key": "086c51f1cad3abe9",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "c8dc27dd3769c8ba",
+    "key": "c8dc27dd3769c8ba",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e1908c6ae5dbd588",
+    "key": "e1908c6ae5dbd588",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "1923e8cb0e546a63",
+    "key": "1923e8cb0e546a63",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "537a6699a5df4fd6",
+    "key": "537a6699a5df4fd6",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "7dd46c71bd03e8d2",
+    "key": "7dd46c71bd03e8d2",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "000bd2c7162ed037",
+    "key": "000bd2c7162ed037",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "8d4c58c699323c88",
+    "key": "8d4c58c699323c88",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f5f7a93db912eeec",
+    "key": "f5f7a93db912eeec",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "dfd0a78eef7d5a18",
+    "key": "dfd0a78eef7d5a18",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "5b7e42f6e3754a8a",
+    "key": "5b7e42f6e3754a8a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "aaf92a857ce496b3",
+    "key": "aaf92a857ce496b3",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e13b4f95a4b356eb",
+    "key": "e13b4f95a4b356eb",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "cbae8b11a0d2fd9c",
+    "key": "cbae8b11a0d2fd9c",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "b9700a092005bf67",
+    "key": "b9700a092005bf67",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "25a19e1cbc23b909",
+    "key": "25a19e1cbc23b909",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0fd85205b51c0125",
+    "key": "0fd85205b51c0125",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "a7383d6b89bd9e92",
+    "key": "a7383d6b89bd9e92",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "473544381f81f868",
+    "key": "473544381f81f868",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "ee4625c4b249201f",
+    "key": "ee4625c4b249201f",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f60511306d51f1dd",
+    "key": "f60511306d51f1dd",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "292f08b1a9856f87",
+    "key": "292f08b1a9856f87",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e24c56eb80e78cec",
+    "key": "e24c56eb80e78cec",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "5fff84cc1b80458b",
+    "key": "5fff84cc1b80458b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "68ef921f67334453",
+    "key": "68ef921f67334453",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "09aa1b21a250835b",
+    "key": "09aa1b21a250835b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "564ca70b936bae68",
+    "key": "564ca70b936bae68",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "d340840e0f2a524e",
+    "key": "d340840e0f2a524e",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "9384ab91ba5632a0",
+    "key": "9384ab91ba5632a0",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "ae65b44b6d074ea5",
+    "key": "ae65b44b6d074ea5",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "6acfa4f5ea97e9bd",
+    "key": "6acfa4f5ea97e9bd",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "faf636653e09e65a",
+    "key": "faf636653e09e65a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "36b810b15119e799",
+    "key": "36b810b15119e799",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "c7f011c0899a9954",
+    "key": "c7f011c0899a9954",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "276f338fa262a371",
+    "key": "276f338fa262a371",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0718ca02097e4048",
+    "key": "0718ca02097e4048",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "37362cabb87d6925",
+    "key": "37362cabb87d6925",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "441589e9f7a6341a",
+    "key": "441589e9f7a6341a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "d44a865a90f1c239",
+    "key": "d44a865a90f1c239",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "cf2c2cb005168c3b",
+    "key": "cf2c2cb005168c3b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "6e531aa74d1db1b3",
+    "key": "6e531aa74d1db1b3",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e1cdd3ac2cba7fc1",
+    "key": "e1cdd3ac2cba7fc1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "7557001ddea20501",
+    "key": "7557001ddea20501",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "b1d8f66f23f15bab",
+    "key": "b1d8f66f23f15bab",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "9c340489be8b8f7d",
+    "key": "9c340489be8b8f7d",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "a073a7c2326b63c2",
+    "key": "a073a7c2326b63c2",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e14013f1a644b095",
+    "key": "e14013f1a644b095",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "debb05b122e79700",
+    "key": "debb05b122e79700",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "11f48cac912cf0df",
+    "key": "11f48cac912cf0df",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "4e923e455b55fed1",
+    "key": "4e923e455b55fed1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f485bd3172bd20da",
+    "key": "f485bd3172bd20da",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "14dcef21c084bcf9",
+    "key": "14dcef21c084bcf9",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "93f512337e4b7f04",
+    "key": "93f512337e4b7f04",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "540729d372324d48",
+    "key": "540729d372324d48",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e3bf6fd0b7701ff5",
+    "key": "e3bf6fd0b7701ff5",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f97a29763dacebc5",
+    "key": "f97a29763dacebc5",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "02ed55d527e6d47f",
+    "key": "02ed55d527e6d47f",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "35bf62598cd2d99a",
+    "key": "35bf62598cd2d99a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "417dfb7279443a27",
+    "key": "417dfb7279443a27",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "d988b4a5aec6312b",
+    "key": "d988b4a5aec6312b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "b1e46ef75a0bf0f6",
+    "key": "b1e46ef75a0bf0f6",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "ac4a4b9eda9e51c4",
+    "key": "ac4a4b9eda9e51c4",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0d405261f7949a8c",
+    "key": "0d405261f7949a8c",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "bb2473d8de0d65b8",
+    "key": "bb2473d8de0d65b8",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "428ec5345e98b7a7",
+    "key": "428ec5345e98b7a7",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0233082d9ff16e7d",
+    "key": "0233082d9ff16e7d",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "71aff3225f441b6b",
+    "key": "71aff3225f441b6b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f8f50bd73771de15",
+    "key": "f8f50bd73771de15",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "9547075488fca9e7",
+    "key": "9547075488fca9e7",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "5eaff958f145f365",
+    "key": "5eaff958f145f365",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e80e01d0da6d9778",
+    "key": "e80e01d0da6d9778",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "05cfbfebe7a5988b",
+    "key": "05cfbfebe7a5988b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "d41333748fdae7cd",
+    "key": "d41333748fdae7cd",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "8f896feda22cd730",
+    "key": "8f896feda22cd730",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "e59cd7d3798e6df6",
+    "key": "e59cd7d3798e6df6",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "39e20c213f426dfc",
+    "key": "39e20c213f426dfc",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "30265e12a029ceaf",
+    "key": "30265e12a029ceaf",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0a3d74ea1d39a4e9",
+    "key": "0a3d74ea1d39a4e9",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "03b2334f11bb01c8",
+    "key": "03b2334f11bb01c8",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "740acc785e85d32d",
+    "key": "740acc785e85d32d",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "9128a52c5bd2142a",
+    "key": "9128a52c5bd2142a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "346df4475ae98a65",
+    "key": "346df4475ae98a65",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "8f363f1a5ea2d72c",
+    "key": "8f363f1a5ea2d72c",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "4afff9c3223d3c93",
+    "key": "4afff9c3223d3c93",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "d9b0c2dedb0b129a",
+    "key": "d9b0c2dedb0b129a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f95b31f15a9c48be",
+    "key": "f95b31f15a9c48be",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
 
 {   "device_id": "55702b15e16b9768",
     "key": "55702b15e16b9768",
     "expirydate": "31-12-2027",
-    "Allowoffline": true    },
+    "Allowoffline": true   }, 
 
-{       "device_id": "c032456e85ca772d",
-    "key": "c032456e85ca772d",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "fb99c880a30f0ecf",
-    "key": "fb99c880a30f0ecf",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "4546ce252b532fb5",
-    "key": "4546ce252b532fb5",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "527067874c5bcc81",
-    "key": "527067874c5bcc81",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "a073a7c2326b63c2",
-    "key": "a073a7c2326b63c2",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "35bf62598cd2d99a",
-    "key": "35bf62598cd2d99a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "e24c56eb80e78cec",
-    "key": "e24c56eb80e78cec",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "d988b4a5aec6312b",
-    "key": "d988b4a5aec6312b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "c8dc27dd3769c8ba",
-    "key": "c8dc27dd3769c8ba",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "537a6699a5df4fd6",
-    "key": "537a6699a5df4fd6",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "39e20c213f426dfc",
-    "key": "39e20c213f426dfc",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "deeb7d97c4f68ecd",
-    "key": "deeb7d97c4f68ecd",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "30265e12a029ceaf",
-    "key": "30265e12a029ceaf",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "8f896feda22cd730",
-    "key": "8f896feda22cd730",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "b1d8f66f23f15bab",
-    "key": "b1d8f66f23f15bab",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "faf636653e09e65a",
-    "key": "faf636653e09e65a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "6d327c6ef2aa37b0",
-    "key": "6d327c6ef2aa37b0",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "6e531aa74d1db1b3",
-    "key": "6e531aa74d1db1b3",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "8598cef3a984b987",
-    "key": "8598cef3a984b987",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "cf2c2cb005168c3b",
-    "key": "cf2c2cb005168c3b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "3cde955d7e261508",
-    "key": "3cde955d7e261508",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "94a6101c46a8839f",
-    "key": "94a6101c46a8839f",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "9128a52c5bd2142a",
-    "key": "9128a52c5bd2142a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "e3bf6fd0b7701ff5",
-    "key": "e3bf6fd0b7701ff5",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "9547075488fca9e7",
-    "key": "9547075488fca9e7",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "951099fd651245b9",
+{   "device_id": "951099fd651245b9",
     "key": "951099fd651245b9",
     "expirydate": "31-12-2027",
-    "Allowoffline": true     },
+    "Allowoffline": true   }, 
 
-{       "device_id": "cb1a4c1bb475c420",
-    "key": "cb1a4c1bb475c420",
+{   "device_id": "3cde955d7e261508",
+    "key": "3cde955d7e261508",
     "expirydate": "31-12-2027",
-    "Allowoffline": true     },
+    "Allowoffline": true   }, 
 
-{       "device_id": "02ed55d527e6d47f",
-    "key": "02ed55d527e6d47f",
+{   "device_id": "deeb7d97c4f68ecd",
+    "key": "deeb7d97c4f68ecd",
     "expirydate": "31-12-2027",
-    "Allowoffline": true     },
+    "Allowoffline": true   }, 
 
-{       "device_id": "276f338fa262a371",
-    "key": "276f338fa262a371",
+{   "device_id": "e52206e9e385a9c1",
+    "key": "e52206e9e385a9c1",
     "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "0719afd1ff3e5a4b",
-    "key": "0719afd1ff3e5a4b",
+    "Allowoffline": true   }, 
+	
+{   "device_id": "7a8030a96765378e",
+    "key": "7a8030a96765378e",
     "expirydate": "31-12-2027",
-    "Allowoffline": true     },
+    "Allowoffline": true   }, 
 
-{       "device_id": "06bbf8ae4878a241",
-    "key": "06bbf8ae4878a241",
+{   "device_id": "535040813d7e3001",
+    "key": "535040813d7e3001",
     "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "09aa1b21a250835b",
-    "key": "09aa1b21a250835b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "1a17040568d23ab7",
-    "key": "1a17040568d23ab7",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "c26ebf84a3285ac8",
-    "key": "c26ebf84a3285ac8",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "e1cdd3ac2cba7fc1",
-    "key": "e1cdd3ac2cba7fc1",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "bd31d49562347f86",
-    "key": "bd31d49562347f86",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "dfd7d762607a444b",
-    "key": "dfd7d762607a444b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "9384ab91ba5632a0",
-    "key": "9384ab91ba5632a0",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "f60511306d51f1dd",
-    "key": "f60511306d51f1dd",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "5fff84cc1b80458b",
-    "key": "5fff84cc1b80458b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "473544381f81f868",
-    "key": "473544381f81f868",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "4afa060a4a87a3f0",
-    "key": "4afa060a4a87a3f0",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "71aff3225f441b6b",
-    "key": "71aff3225f441b6b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "dfd8a8d1981bd05a",
-    "key": "dfd8a8d1981bd05a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "14dcef21c084bcf9",
-    "key": "14dcef21c084bcf9",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "28168edf465a7a6d",
-    "key": "28168edf465a7a6d",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "b1e46ef75a0bf0f6",
-    "key": "b1e46ef75a0bf0f6",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "03b2334f11bb01c8",
-    "key": "03b2334f11bb01c8",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "bb2473d8de0d65b8",
-    "key": "bb2473d8de0d65b8",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "5c481b50206bf7ab",
-    "key": "5c481b50206bf7ab",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true     },
-
-{       "device_id": "8f363f1a5ea2d72c",			
-        "key": "8f363f1a5ea2d72c",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "951099fd651245b9",			
-        "key": "951099fd651245b9",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "8d4c58c699323c88",			
-        "key": "8d4c58c699323c88",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "9e29a26dcee67265",			
-        "key": "9e29a26dcee67265",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "2713f44eac3de49c",			
-        "key": "2713f44eac3de49c",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "0233082d9ff16e7d",			
-        "key": "0233082d9ff16e7d",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "428ec5345e98b7a7",			
-        "key": "428ec5345e98b7a7",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "999f0006c25134fc",			
-        "key": "999f0006c25134fc",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "ac4a4b9eda9e51c4",			
-        "key": "ac4a4b9eda9e51c4",			
-        "expirydate": "31-12-2027",			
-        "Allowoffline": true    },			
-
-{       "device_id": "564ca70b936bae68",			
-        "key": "564ca70b936bae68",			
-        "expirydate": "31-12-2027",		
-        "Allowoffline": true    },			
-
-{       "device_id": "f5f7a93db912eeec",			
-        "key": "f5f7a93db912eeec",			
-        "expirydate": "31-12-2027",	
-        "Allowoffline": true    },			
-
-{       "device_id": "d1dc09d08700da2d",
-        "key": "d1dc09d08700da2d",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true    },
-        
-{       "device_id": "6292cb9a67baaaf0",
-        "key": "6292cb9a67baaaf0",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true    },
-
-{       "device_id": "c7752a78823ef64c",
-        "key": "c7752a78823ef64c",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true    },
-    
-{       "device_id": "8a7875004b3f783e",
-        "key": "8a7875004b3f783e",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true    },
-    {
-        "device_id": "535040813d7e3001",
-        "key": "test",
-        "expirydate": "31-12-2027",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "7a8030a96765378e",
-        "key": "key67",
-        "expirydate": "28-06-2027",
-        "Allowoffline": true
-    }
+    "Allowoffline": true   }
 ]
+
+
+
+
 
