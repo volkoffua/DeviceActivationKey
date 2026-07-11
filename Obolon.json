@@ -1,17 +1,18 @@
 [
-{    "device_id": "35cab3c256281845",
-    "key": "35cab3c256281845",
-    "expirydate": "02-08-2027",
-    "Allowoffline": true   }, 
+
 
 {    "device_id": "857cae3bf42f44b4",
     "key": "857cae3bf42f44b4",
-    "expirydate": "02-08-2027",
+    "expirydate": "02-08-2026",
     "Allowoffline": true   }, 
 
 
 
-
+{    "device_id": "35cab3c256281845",
+    "key": "35cab3c256281845",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+    
 {    "device_id": "be4d68aaaa5215c1",
     "key": "be4d68aaaa5215c1",
     "expirydate": "31-12-2027",
