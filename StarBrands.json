@@ -1,41 +1,23 @@
 [
-{   "device_id": "f94a80cd8990e8b8",
-    "key": "f94a80cd8990e8b8",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    	
-{   "device_id": "ce6598ceb368847a",
-    "key": "ce6598ceb368847a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    	
-{   "device_id": "88933934dc0343bf",
-    "key": "88933934dc0343bf",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "bc57f61a014d12a2",
-    "key": "bc57f61a014d12a2",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    	
-{   "device_id": "0e04edb081f0b49e",
-    "key": "0e04edb081f0b49e",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    	
-{   "device_id": "872baac536884f4a",
-    "key": "872baac536884f4a",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    	
+
+
 {   "device_id": "d7589f1b0beb58e2",
     "key": "d7589f1b0beb58e2",
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
+{   "device_id": "bc57f61a014d12a2",
+    "key": "bc57f61a014d12a2",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
 {   "device_id": "8d4c58c699323c88",
     "key": "8d4c58c699323c88",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "88933934dc0343bf",
+    "key": "88933934dc0343bf",
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
@@ -88,7 +70,23 @@
     "key": "97cebf62678028c2",
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
-	
+
+{   "device_id": "872baac536884f4a",
+    "key": "872baac536884f4a",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "0e04edb081f0b49e",
+    "key": "0e04edb081f0b49e",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "f94a80cd8990e8b8",
+    "key": "f94a80cd8990e8b8",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+
 {   "device_id": "7a8030a96765378e",
     "key": "7a8030a96765378e",
     "expirydate": "31-12-2027",
