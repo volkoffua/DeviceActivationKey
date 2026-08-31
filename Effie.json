@@ -3,7 +3,12 @@
     "key": "e294e82cd6e02487",
     "expirydate": "01-09-2026",
     "Allowoffline": true    },
-        
+    
+{   "device_id": "9df987e4f7e8aaa1",
+    "key": "9df987e4f7e8aaa1",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true    },
+            
 {   "device_id": "52e3ec89273d9583",
     "key": "52e3ec89273d9583",
     "expirydate": "31-12-2027",
