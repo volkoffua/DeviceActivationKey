@@ -1,6 +1,14 @@
 [
 
 
+
+
+
+ {   "device_id": "650d520a9efafa02",
+    "key": "650d520a9efafa02",
+    "expirydate": "15-10-2026",
+    "Allowoffline": true    },   
+
 {   "device_id": "2d0ac022a30de073",
     "key": "2d0ac022a30de073",
     "expirydate": "15-10-2026",
