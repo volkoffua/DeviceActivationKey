@@ -14,6 +14,11 @@
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
     
+ {   "device_id": "7f8937e22dcd1020",
+    "key": "7f8937e22dcd1020",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true    },
+       
 {   "device_id": "7a8030a96765378e",
     "key": "7a8030a96765378e",
     "expirydate": "31-12-2027",
