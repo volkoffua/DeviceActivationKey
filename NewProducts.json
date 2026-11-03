@@ -1,20 +1,6 @@
 [
 
-{   "device_id": "2d3728237836f12b",
-    "key": "2d3728237836f12b",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-        
-{   "device_id": "8cb0a5aaf59d5149",
-    "key": "8cb0a5aaf59d5149",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
-{   "device_id": "9bfce5ba54a35ada",
-    "key": "9bfce5ba54a35ada",
-    "expirydate": "31-12-2027",
-    "Allowoffline": true    },
-    
+
 {   "device_id": "cbf52c89ca81ddcc",
     "key": "cbf52c89ca81ddcc",
     "expirydate": "31-12-2027",
@@ -25,8 +11,13 @@
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
-{   "device_id": "999f0006c25134fc",
-    "key": "999f0006c25134fc",
+{   "device_id": "2d3728237836f12b",
+    "key": "2d3728237836f12b",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
+{   "device_id": "428ec5345e98b7a7",
+    "key": "428ec5345e98b7a7",
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
@@ -55,6 +46,11 @@
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
+{   "device_id": "9bfce5ba54a35ada",
+    "key": "9bfce5ba54a35ada",
+    "expirydate": "31-12-2027",
+    "Allowoffline": true   }, 
+
 {   "device_id": "d00cebf6f1ecd990",
     "key": "d00cebf6f1ecd990",
     "expirydate": "31-12-2027",
@@ -68,11 +64,6 @@
 {   "device_id": "d71b35bb9142e682",
     "key": "d71b35bb9142e682",
     "expirydate": "31-12-2027",
-    "Allowoffline": true   }, 
-
-{   "device_id": "e9eb3ab1e018e3c0",
-    "key": "e9eb3ab1e018e3c0",
-    "expirydate": "01-11-2026",
     "Allowoffline": true   }, 
 
 {   "device_id": "ee9a5f2658d99f82",
@@ -95,15 +86,15 @@
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
-{   "device_id": "428ec5345e98b7a7",
-    "key": "428ec5345e98b7a7",
+{   "device_id": "8cb0a5aaf59d5149",
+    "key": "8cb0a5aaf59d5149",
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
 
 
-{   "device_id": "7a8030a96765378e",
-    "key": "7a8030a96765378e",
+{   "device_id": "7f8937e22dcd1020",
+    "key": "7f8937e22dcd1020",
     "expirydate": "31-12-2027",
     "Allowoffline": true   }, 
 
